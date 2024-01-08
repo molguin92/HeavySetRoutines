@@ -1,0 +1,40 @@
+---
+folder: Super Squats
+color: #000000
+
+
+Based on the book by Dr. Randall Strossen ("Super Squats: How To Gain 30 Pounds of Muscle in 6 Weeks") and Alexander Bromley's modified version of the program (https://empire-barbell.com/2021/07/23/super-squats-review-of-the-legendary-20-rep-squat-program/).
+
+3 workouts/week. Modified for some variations on the non-squat exercises, feel free to repeat any one single day 3x week, or exchange exercises.
+
+---
+
+## Super Squats A
+A. Seated Behind-the-Neck Press, 3 sets, 12 reps
+B. Dip, 3 sets, 12 reps
+C. Reverse Grip Lat Pulldown, 3 sets, 12 reps
+D. Squat, 1 set, 20 reps
+E. Pullover, 1 set, 20 reps
+F. RDL, 1 set, 15 reps
+G. Pullover, 1 set, 20 reps
+H. Calf Raise, 1 set, 20 reps
+
+## Super Squats B
+A. Overhead Press, 3 sets, 12 reps
+B. Bench Press, 3 sets, 12 reps
+C. Barbell Row, 3 sets, 12 reps
+D. Squat, 1 set, 20 reps
+E. Pullover, 1 set, 20 reps
+F. Straight Legged Deadlift, 1 set, 15 reps
+G. Pullover, 1 set, 20 reps
+H. Deadbug, 2 sets, 20 reps
+
+## Super Squats C
+A. Seated Behind-the-Neck Press, 3 sets, 12 reps
+B. Dip, 3 sets, 12 reps
+C. Reverse Grip Lat Pulldown, 3 sets, 12 reps
+D. Squat, 1 set, 20 reps
+E. Pullover, 1 set, 20 reps
+F. RDL, 1 set, 15 reps
+G. Pullover, 1 set, 20 reps
+H. Calf Raise, 1 set, 20 reps
