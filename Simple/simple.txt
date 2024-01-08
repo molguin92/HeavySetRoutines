@@ -1,0 +1,20 @@
+---
+folder: Simple
+color: #6622ff
+
+Linear progression.
+Start with a weight you can comfortably do all sets with while leaving 3 or 4 repetitions in the tank after each set.
+Then, increase weight every workout by 5kg for lower body exercises (squat, deadlift, etc), and 2.5kg for upper body exercises (overhead/bench press, etc).
+Once you fail a set of 6, try to finish that day with the same weight, but next time lower the weight by 20% - 25% and repeat progression.
+
+---
+
+## Day A
+A. Squat, 5 sets, 6 reps, 2:00 rest
+B. Bench Press, 5 sets, 6 reps, 2:00 rest
+C. Barbell Row, 5 sets, 6 reps, 2:00 rest
+
+## Day B
+A. Deadlift, 5 sets, 6 reps, 2:00 rest
+B. Overhead Press, 5 sets, 6 reps, 2:00 rest
+C. Lat Pulldown, 5 sets, 6 reps, 2:00 rest
