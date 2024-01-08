@@ -1,0 +1,70 @@
+---
+folder: GZCLP
+color: #ffff00
+
+
+Overview of the program: https://www.reddit.com/r/gzcl/wiki/gzclp
+
+Detailed discussion here: http://swoleateveryheight.blogspot.com/2016/02/gzcl-applications-adaptations.html
+
+
+
+Summary of progression:
+
+
+
+T1 EXERCISES
+
+Last set of each T1 workout is an AMRAP.
+
+Each day, choose one T1 rep scheme according to the below progression. Note that all progressions are included in all days of the program for simplicity, but you are not supposed to do all of them!
+
+Start with 5x3 rep scheme. Add 5lbs (if upper body exercise) or 10lbs (if lower body exercise) every workout until you fail a set, at which point you switch to the 6x2 rep scheme. Repeat progression until you fail a set, then switch to 10x1. Once you fail a 10x1 set, reset to the 5x3 rep scheme.
+
+
+
+T2 EXERCISES
+
+Start very light (40% - 50% of estimated 5RM). Same type of progression as T1: start at 3x10, add weight each workout until you fail, then switch to 3x8, then 3x6, then reset to 3x10.
+
+
+
+T3 EXERCISES
+
+Last set of each T3 workout is an AMRAP. Once you hit 25 reps in the AMRAP set, increase weight.
+
+Feel free to add/remove as many T3/accessory exercises as you wish, but I recommend at least keeping the back work.
+
+---
+
+## A1
+A. Squat, 5 sets, 3+ reps
+B. Squat, 6 sets, 2+ reps
+C. Squat, 10 sets, 1+ reps
+D. Close Grip Bench, 3 sets, 6-10 reps
+E. Lat Pulldown, 3 sets, 15+ reps
+F. Weighted Hip Thrust, 3 sets, 15+ reps
+
+## B1
+A. Overhead Press, 5 sets, 3+ reps
+B. Overhead Press, 6 sets, 2+ reps
+C. Overhead Press, 10 sets, 1+ reps
+D. RDL, 3 sets, 6-10 reps
+E. Facepull, 3 sets, 15+ reps
+F. Cable Tricep Pushdown, 3 sets, 15+ reps
+
+## A2
+A. Bench Press, 5 sets, 3+ reps
+B. Bench Press, 6 sets, 2+ reps
+C. Bench Press, 10 sets, 1+ reps
+D. Leg Press, 3 sets, 6-10 reps
+E. Lat Pulldown, 3 sets, 15+ reps
+F. Weighted Hip Thrust, 3 sets, 15+ reps
+
+## B1
+A. Conventional Deadlift, 5 sets, 3+ reps
+B. Conventional Deadlift, 6 sets, 2+ reps
+C. Conventional Deadlift, 10 sets, 1+ reps
+D. Machine Overhead Press, 3 sets, 6-10 reps
+E. Cable Row, 3 sets, 15+ reps
+F. Cable Tricep Pushdown, 3 sets, 15+ reps
